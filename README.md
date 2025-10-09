@@ -1,27 +1,26 @@
-<!-- 🌌 Anime Banner -->
+<!-- Banner -->
 <p align="center">
   <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="100%" alt="anime hacker banner">
 </p>
 
-<!-- ⌨️ Typing Text -->
+<!-- Typing Text -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=440&lines=Hello+World%2C+I'm+zerocool979;just+kiddie+%7C+Cyber+Learner;Coding+with+Silence...%F0%9F%94%8A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=440&lines=zerocool979;just+kiddie;can't+talk+alone+is+better...;silence..." alt="Typing SVG" />
 </h1>
 
-<!-- 🧠 Tentang -->
-### 👋 Tentang Saya
+<!-- About -->
+### Me?
 
-- 🎓 Mahasiswa Teknik Informatika | Fokus di bidang **Cybersecurity**  
-- 🧪 Eksperimen dengan Python, Bash, dan OSINT   
-- 🎯 Motto: _"Belajar diam-diam, muncul dengan kejutan."_
+- Tazkia College of Computer Informatics Management - Faculty of Science and Technology - Informatics Engineering study program
 
 ---
 
-<!-- 🛠️ Tools Stack -->
-### ⚙️ Stack yang Digunakan
-
-```bash
-OS       : Linux & Windows
-Bahasa   : Python, Bash, JavaScript
-Tools    : Git, VS Code, and all tools for pentesting
-Fokus    : Red Team, Bug bounty, Scripting Otomasi
+_Last but not least, I wanna thank me
+I wanna thank me for believing in me
+I wanna thank me for doing all this hard work
+I wanna thank me for having no days off
+I wanna thank me for, for never quitting
+I wanna thank me for always being a giver
+And tryna give more than I recieve
+I wanna thank me for tryna do more right than wrong
+I wanna thank me for just being me at all times_
