@@ -1,6 +1,5 @@
 <!-- Banner -->
-![The Vibes](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3BjMzRhdDBkZWNsZHBnbjBsZWp6Z3g1OHZ5Nnk3bXBsZTgxeWtoaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rzeWnbH8Uc5Y4/giphy.gif)
-
+![The Vibes](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGp4NjRjMWR4YmltN3I2Y2M1YWN0OXZudDB2NW9jMTA4ajMyaXZ2aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pVGsAWjzvXcZW4ZBTE/giphy.gif)
 <!-- Typing Text -->
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=440&lines=zerocool979;just+kiddie;can't+talk+alone+is+better...;silence..." alt="Typing SVG" />
