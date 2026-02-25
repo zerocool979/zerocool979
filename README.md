@@ -1,7 +1,5 @@
 <!-- Banner -->
-<p align="center">
-  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="100%" alt="anime hacker banner">
-</p>
+![The Vibes](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3BjMzRhdDBkZWNsZHBnbjBsZWp6Z3g1OHZ5Nnk3bXBsZTgxeWtoaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rzeWnbH8Uc5Y4/giphy.gif)
 
 <!-- Typing Text -->
 <h1 align="center">
