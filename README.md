@@ -1,9 +1,18 @@
-<!-- Banner -->
-![The Vibes](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXBlYnFoNHFrZW51ZGVyOGd5MWJyZTZzNnZpbGY3aXZia3k1ZGFnNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ckr4W2ppxPBeIF8dx4/giphy.gif)
+<!-- Banner GIF -->
+<p align="center" style="margin-bottom:40px;">
+  <img
+    src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXBlYnFoNHFrZW51ZGVyOGd5MWJyZTZzNnZpbGY3aXZia3k1ZGFnNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ckr4W2ppxPBeIF8dx4/giphy.gif"
+    width="700"
+    alt="The Vibes"
+  />
+</p>
 
 <!-- Typing Text -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=440&lines=zerocool979;just+kiddie;can't+talk+alone+is+better...;silence..." alt="Typing SVG" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=440&lines=zerocool979;just+kiddie;can't+talk+alone+is+better...;silence..."
+    alt="Typing SVG"
+  />
 </h1>
 
 <!-- About -->
